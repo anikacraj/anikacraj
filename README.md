@@ -1,4 +1,4 @@
-![Computer Programmer](https://scontent.fdac137-1.fna.fbcdn.net/v/t39.30808-6/369791338_186242437804801_3190569567738575888_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=MQNDeoezOrgAX8MpS1x&_nc_ht=scontent.fdac137-1.fna&oh=00_AfARHoxxAfIFy1nyL6veXjuJd5fOKfuYERm-3jNTrjGU_g&oe=64EA53FC)
+![Computer Programmer](https://scontent.fdac137-1.fna.fbcdn.net/v/t39.30808-6/369741558_186257267803318_3250034915396078346_n.png?stp=dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=ab6a21&_nc_ohc=fDqjzpaQCH4AX_Jb2rB&_nc_ht=scontent.fdac137-1.fna&oh=00_AfBfA_AYnfMw16OeM6JQDngbR7G8Ck4Nd2luxOi1rnLqGw&oe=64EAC804)
 
 # Hi there 👋, I'm Anik 
 ## Computer Programmer
