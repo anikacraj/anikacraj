@@ -1,7 +1,7 @@
 
 
 # Hi there 👋, I'm Anik 
-## Programmer
+## MERN DEVELOPER 
 
 
 I created projects to develop my skills , it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
